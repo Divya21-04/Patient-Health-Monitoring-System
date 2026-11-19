@@ -1,0 +1,10 @@
+ETHICAL COMPLIANCE CHECK — REVIEW BEFORE SIGNING
+[ ] Dataset source licence/provenance checked.
+[ ] No personally identifiable health information uploaded without appropriate consent and safeguards.
+[ ] Synthetic data is labelled synthetic and not represented as real patient data.
+[ ] AI tools used for code/document drafting disclosed in the appendix as required by the programme.
+[ ] Applicable institutional requirements and Indian DPDP Act 2023 obligations reviewed.
+[ ] Physical hardware and dashboard claims match tests actually performed.
+
+Learner: Divya Singh
+Signature: __________________________    Date: 03/11/2026

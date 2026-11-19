@@ -1,0 +1,8 @@
+1–2 minute demo video script
+
+0:00–0:15 — Introduce the project, learner name, domain and objective.
+0:15–0:35 — Explain the proposed ESP32 + MAX30100 + DHT11 + OLED architecture. State clearly whether hardware is physically connected and tested.
+0:35–0:55 — Show dataset.csv and data_dictionary.csv. Explain that the included dataset is synthetic demonstration data.
+0:55–1:15 — Run the EDA notebook and show at least three plots.
+1:15–1:40 — Run the Streamlit dashboard and demonstrate patient selection, vitals and flagged rows.
+1:40–2:00 — State limitations, privacy safeguards and future hardware validation. Do not claim untested features are working.

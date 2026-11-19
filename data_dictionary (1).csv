@@ -1,0 +1,8 @@
+column_name,data_type,sample_value,nullable,description
+timestamp,datetime,2024-01-01 00:00:00,No,Date and time at which the sample reading was recorded; generated at 20-minute intervals.
+patient_id,string,P1042,No,Pseudonymous synthetic patient identifier; does not identify a real person.
+heart_rate_bpm,integer,76,No,Heart-rate sample in beats per minute (BPM). Synthetic readings may include out-of-range examples for testing.
+body_temp_C,float,36.8,No,Body temperature sample in degrees Celsius.
+SpO2_pct,integer,98,No,Peripheral oxygen saturation sample expressed as a percentage.
+comm_channel,category,WiFi,No,Communication channel label associated with the sample: WiFi or Bluetooth.
+alert_flag,binary integer,0,No,"Rule-based flag: 1 if heart rate <60 or >100 BPM, SpO2 <95%, temperature <36.0°C or >37.5°C; otherwise 0. Not a diagnosis."
